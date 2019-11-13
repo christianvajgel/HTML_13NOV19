@@ -1,0 +1,62 @@
+/*https://css3generator.com/*/
+
+.encapsula {
+    border: 1px solid red;
+    height: 10px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.encapsula2 {
+    border: 1px solid black;
+    height: 10px;
+    width: 70%;
+    margin: 150px auto 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    margin: 5px;
+    float: left;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    float: left;
+}
+
+.box3 {
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin: 5px;
+    float: left;
+}
+
+.box4 {
+    width: 90px;
+    height: 90px;
+    background-color: blue;
+    margin: 5px;
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+}
+
+.box6 {
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    margin: 5px;
+}
